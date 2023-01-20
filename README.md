@@ -97,14 +97,10 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 ![HOMEPAGE](/images/home.png)
 
 
-/home/sec/Pictures/Screenshots/home
-
 
 ### calculactions:
 ![AREAOUTPUT](/images/kk.png)
 
-
-/home/sec/Pictures/Screenshots/kk
 
 
 ## Result:
