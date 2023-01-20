@@ -102,3 +102,4 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 ## Result:
 
 Calculations are performed correctly as per the given inputs.
+
